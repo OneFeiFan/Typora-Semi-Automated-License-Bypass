@@ -1,10 +1,4 @@
 # -*- coding:utf-8 -*-
-"""
-@Author: Mas0n
-@File: typora.py
-@Time: 2021-11-29 21:24
-@Desc: It's all about getting better.
-"""
 import argparse
 from os import path
 
